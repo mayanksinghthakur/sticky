@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+    
+
+}
+header img {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    width: 100%;
+}
+nav ul{
+    background-color: aquamarine;
+}
+nav ul li{
+    display: flex;
+    display: inline-flex;
+    float: right;
+    padding : 0 40px 0 40px;
+    
+   
+  
+    }
+    nav ul li a{
+        background-color:lightcoral;
+        min-height: auto;
+        
+    }
+     nav{
+     
+        position: sticky;
+        top: 0px;
+        background: orange;
+        height: 50px;
+        width: 100%;
+        font-size: 20px;
+
+     }
+     section{
+        background-color: lightskyblue;
+        margin: 0;
+        padding: 0;
+        font-family: 'Courier New', Courier, monospace;
+     }
+     .division{
+    font-size: 50px;
+        background-color: blue;
+       
+     }
+    div{
+        position: sticky;
+        top: 50px;
+    }
